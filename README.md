@@ -24,5 +24,11 @@ python -m pytest tests/  # Run tests
 
 ## Implemented Algorithms
 **Part 1:** Median of Medians (O(n) deterministic), Randomized Quickselect (O(n) expected)
+<img width="1030" height="712" alt="CleanShot 2025-07-29 at 22 35 05@2x" src="https://github.com/user-attachments/assets/30e64870-ea27-48df-bb1a-87a52b571d2e" />
 
 **Part 2:** Arrays, Stacks, Queues, Linked Lists, Trees
+<img width="896" height="700" alt="CleanShot 2025-07-29 at 22 35 30@2x" src="https://github.com/user-attachments/assets/cd897ada-c4ca-4392-adde-aed185b50a43" />
+
+**Analysis:** 
+
+<img width="854" height="1064" alt="CleanShot 2025-07-29 at 22 35 50@2x" src="https://github.com/user-attachments/assets/4d817d57-a44b-4f5b-aa83-c7a0ceee9ced" />
