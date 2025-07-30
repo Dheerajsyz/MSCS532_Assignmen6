@@ -32,3 +32,8 @@ python -m pytest tests/  # Run tests
 **Analysis:** 
 
 <img width="854" height="1064" alt="CleanShot 2025-07-29 at 22 35 50@2x" src="https://github.com/user-attachments/assets/4d817d57-a44b-4f5b-aa83-c7a0ceee9ced" />
+
+**Tests:** 
+
+<img width="2092" height="210" alt="CleanShot 2025-07-29 at 22 37 41@2x" src="https://github.com/user-attachments/assets/702a689e-5396-4e12-8588-6040290c59fb" />
+
